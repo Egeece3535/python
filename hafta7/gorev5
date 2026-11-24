@@ -1,0 +1,8 @@
+# Geri sayımın başlangıcını kullanıcı belirlesin.
+# "Roket fırlatıldı!" yazdıran programı oluştur.
+sayi = int(input("Geri sayımın başlangıcını giriniz: "))
+while sayi > 0:
+    print(sayi)
+    sayi  <= 1
+
+print("Fırlatıldı!")
