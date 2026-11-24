@@ -1,0 +1,41 @@
+yakıt = 7
+
+
+if yakıt > 0:
+    if yakıt >= 0
+        print("Geminin kalkabileceğini göster.")
+    else:
+        print("Yakıt yetersiz.")
+else:
+    print("Geçersiz yakıt.")
+    bu bonus görev 
+
+
+
+    buda normal görev:
+
+yakit = 10
+maksimum_yakit = 25
+yakit_doldur = input("Yakıt Doldurmak İster misiniz? (evet/hayır): ")
+
+if yakit_doldur == "evet":
+    yakit += 10
+    if yakit > maksimum_yakit:
+        yakit = maksimum_yakit
+    else:
+     print("Yakıt Doldurulmadı.")
+        # GÖREV 02 | Yakıt İstasyonu
+
+
+
+
+yakit = 10
+maksimum_yakit = 25
+yakit_doldur = input("Yakıt Doldurmak İster misiniz? (e/h): ")
+
+if yakit_doldur == "evet":
+    yakit += 10
+    if yakit > maksimum_yakit:
+        yakit = maksimum_yakit
+        else:
+        print("Yakıt Doldurulmadı.")
